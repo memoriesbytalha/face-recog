@@ -1,136 +1,135 @@
-absl-py==1.4.0
-aiohttp==3.8.5
-aiosignal==1.3.1
-annotated-types==0.5.0
-anyio==3.7.1
-asciidoc==10.2.0
-astunparse==1.6.3
-async-timeout==4.0.3
-attrs==23.1.0
-beautifulsoup4==4.12.2
-brisque==0.0.15
-brotlipy==0.7.0
-build==1.0.3
-cachetools==4.2.4
-certifi==2023.7.22
-charset-normalizer==3.2.0
-click==8.1.7
-cmake==3.27.5
-contourpy==1.1.0
-cycler==0.11.0
-dataclasses-json==0.6.1
-distlib==0.3.7
-dlib==19.24.2
-easyocr==1.7.1
-filelock==3.12.4
-flatbuffers==23.5.26
-fonttools==4.42.1
-frozenlist==1.4.0
-fsspec==2023.9.1
-gast==0.4.0
-google==3.0.0
-greenlet==2.0.2
-grpcio==1.58.0
-h5py==3.9.0
-huggingface-hub==0.17.2
-imageio==2.31.3
-Jinja2==3.1.2
-jsonpatch==1.33
-jsonpointer==2.1
-keras==2.13.1
-keyboard==0.13.5
-kiwisolver==1.4.5
-labelImg==1.8.6
-langchain==0.0.305
-langsmith==0.0.41
-lazy_loader==0.3
-libclang==16.0.6
-libsvm==3.23.0.4
-lit==16.0.6
-lxml==4.9.3
-Markdown==3.4.4
-MarkupSafe==2.1.3
-marshmallow==3.20.1
-matplotlib==3.7.3
-mediapipe==0.10.7
-mpmath==1.3.0
-multidict==6.0.4
-mypy-extensions==1.0.0
-networkx==3.1
-ninja==1.11.1
-numexpr==2.8.7
-numpy 
-oauthlib==3.2.2
-openai==0.28.1
-opencv-contrib-python==4.8.1.78
-opencv-python==4.8.0.76
-opt-einsum==3.3.0
-packaging==23.1
-pandas==2.1.0
-Pillow==10.0.0
-pip-tools==7.3.0
-pipenv==2023.9.8
-platformdirs==3.10.0
-pluggy 
-protobuf==3.20.3
-pyasn1==0.5.0
-pyasn1-modules==0.3.0
-pyclipper==1.3.0.post5
-pycosat 
-pycparser 
+absl-py
+aiohttp
+aiosignal
+annotated-types
+anyio
+asciidoc
+astunparse
+async-timeout
+attrs
+beautifulsoup4
+brisque
+brotlipy
+build
+cachetools
+certifi
+charset-normalizer
+click
+cmake
+contourpy
+cycler
+dataclasses-json
+distlib
+dlib
+easyocr
+filelock
+flatbuffers
+fonttools
+frozenlist
+fsspec
+gast
+google
+greenlet
+grpcio
+h5py
+huggingface-hub
+imageio
+Jinja2
+jsonpatch
+jsonpointer
+keras
+keyboard
+kiwisolver
+labelImg
+langchain
+langsmith
+lazy_loader
+libclang
+libsvm
+lit
+lxml
+Markdown
+MarkupSafe
+marshmallow
+matplotlib
+mediapipe
+mpmath
+multidict
+mypy-extensions
+networkx
+ninja
+numexpr
+numpy
+oauthlib
+openai
+opencv-contrib-python
+opencv-python
+opt-einsum
+packaging
+pandas
+Pillow
+pip-tools
+pipenv
+platformdirs
+pluggy
+protobuf
+pyasn1
+pyasn1-modules
+pyclipper
+pycosat
+pycparser
 pydantic
 pydantic_core
-pyOpenSSL 
+pyOpenSSL
 pyparsing
-pyproject_hooks==1.0.0
-PyQt5==5.15.9
-PyQt5-Qt5==5.15.2
-PyQt5-sip==12.12.2
-PySocks 
-pytesseract==0.3.10
-python-barcode==0.15.1
-python-bidi==0.4.2
-python-dateutil==2.8.2
-pytz==2023.3.post1
-PyWavelets==1.4.1
-PyYAML==6.0.1
-pyzbar==0.1.9
-regex==2023.8.8
-requests==2.31.0
-requests-oauthlib==1.3.1
-rsa==4.9
+pyproject_hooks
+PyQt5
+PyQt5-Qt5
+PyQt5-sip
+PySocks
+pytesseract
+python-barcode
+python-bidi
+python-dateutil
+pytz
+PyWavelets
+PyYAML
+pyzbar
+regex
+requests
+requests-oauthlib
+rsa
 ruamel.yaml
-safetensors==0.3.3
-scikit-image==0.21.0
-scipy==1.11.2
-shapely==2.0.1
-six 
-sniffio==1.3.0
-sounddevice==0.4.6
-soupsieve==2.5
-SQLAlchemy
-sympy==1.12
-tenacity==8.2.3
-tensorboard==2.13.0
-tensorboard-data-server==0.7.1
-tensorflow
-tensorflow-estimator
-tensorflow-io-gcs-filesystem
-termcolor==2.3.0
-tesserocr==2.6.1
-tifffile==2023.8.30
-tokenizers==0.13.3
-toolz 
-torch==2.0.1
-torchvision==0.15.2
-tqdm 
-transformers==4.33.2
-triton==2.0.0
-typing-inspect==0.9.0
-typing_extensions
-tzdata==2023.3
-virtualenv==20.24.5
-Werkzeug==2.3.7
-wrapt==1.15.0
-yarl==1.9.2
-
+safetensors
+scikit-image
+scipy
+shapely
+six
+sniffio
+sounddevice
+soupsieve
+# SQLAlchemy
+# sympy
+# tenacity
+# tensorboard
+# tensorboard-data-server
+# tensorflow
+# tensorflow-estimator
+# tensorflow-io-gcs-filesystem
+# termcolor
+# tesserocr
+# tifffile
+# tokenizers
+# toolz
+# torch
+# torchvision
+# tqdm
+# transformers
+# triton
+# typing-inspect
+# typing_extensions
+# tzdata
+# virtualenv
+# Werkzeug
+# wrapt
+# yarl
